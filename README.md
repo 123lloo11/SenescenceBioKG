@@ -89,6 +89,3 @@ Every supported edge has an Evidence_ID linked to the same Record_ID. The public
 
 Citation information will be updated upon publication. See `CITATION.cff.template` and `docs/CITATION_SETUP.md`.
 
-## License
-
-See `LICENSE_SELECTION.md`. Authors and their institutions must confirm the code and data licenses before release.
