@@ -1,0 +1,13 @@
+﻿"Relation","Subject_type","Object_type","Definition","Edge_count"
+"ACTIVATES","MaterialPlatform","Mechanism","Platform directly activates the supported mechanism/pathway.",0
+"COMPOSED_OF","MaterialPlatform","MaterialComposition","Platform contains the validated constituent.",213
+"DELIVERS","MaterialPlatform","TherapeuticCargo","Platform is actually loaded with or carries the therapeutic cargo.",71
+"FABRICATED_BY","MaterialPlatform","FabricationStrategy","Platform is produced by the validated fabrication process.",162
+"MODULATES","MaterialPlatform","Mechanism","Platform directly changes the supported mechanism/pathway.",88
+"PROMOTES","MaterialPlatform","RegenerativeEndpoint","Platform directly improves the reported regenerative endpoint.",107
+"RELEASES","MaterialPlatform","TherapeuticCargo","Platform has direct evidence of releasing the target cargo or ion.",61
+"RESPONDS_TO","MaterialPlatform","Stimulus","Stimulus directly changes material structure, properties, degradation, signal or release.",64
+"SUPPRESSES","MaterialPlatform","Mechanism","Platform directly suppresses the supported mechanism/pathway.",0
+"TARGETS","MaterialPlatform","TargetCell","Platform intervention is directly tested in the target cell type.",313
+"USES","MaterialPlatform","DesignMode","Platform uses the validated material/design class.",222
+"VALIDATED_AT","MaterialPlatform","ValidationStage","Platform is directly tested at the stated validation stage.",567

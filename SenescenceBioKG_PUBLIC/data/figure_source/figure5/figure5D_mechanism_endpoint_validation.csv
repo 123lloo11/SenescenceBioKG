@@ -1,0 +1,66 @@
+﻿"Mechanism","Regenerative_endpoint","Validation_stage","Study_count"
+"AMPK–mTOR–sirtuin signaling","Bone regeneration/osteogenesis","Cell",1
+"AMPK–mTOR–sirtuin signaling","Bone regeneration/osteogenesis","Ex vivo",1
+"AMPK–mTOR–sirtuin signaling","Bone regeneration/osteogenesis","Small Animal",1
+"AMPK–mTOR–sirtuin signaling","Intervertebral-disc regeneration","Cell",1
+"AMPK–mTOR–sirtuin signaling","Intervertebral-disc regeneration","Human-derived",1
+"AMPK–mTOR–sirtuin signaling","Intervertebral-disc regeneration","Small Animal",1
+"Angiogenic/HIF–VEGF signaling","Bone regeneration/osteogenesis","Cell",1
+"Angiogenic/HIF–VEGF signaling","Bone regeneration/osteogenesis","Human-derived",1
+"Angiogenic/HIF–VEGF signaling","Bone regeneration/osteogenesis","Small Animal",1
+"Angiogenic/HIF–VEGF signaling","Wound healing/skin regeneration","Cell",1
+"Apoptosis/cell-survival regulation","Bone regeneration/osteogenesis","Cell",1
+"Apoptosis/cell-survival regulation","Bone regeneration/osteogenesis","Small Animal",1
+"Apoptosis/cell-survival regulation","Cartilage regeneration/chondroprotection","Cell",1
+"Apoptosis/cell-survival regulation","Cartilage regeneration/chondroprotection","Small Animal",1
+"Apoptosis/cell-survival regulation","Neural regeneration/function","Cell",1
+"Apoptosis/cell-survival regulation","Neural regeneration/function","Small Animal",1
+"Epigenetic/chromatin regulation","Cartilage regeneration/chondroprotection","Cell",1
+"Epigenetic/chromatin regulation","Cartilage regeneration/chondroprotection","Small Animal",1
+"Immune modulation/macrophage polarization","Wound healing/skin regeneration","Cell",1
+"Immune modulation/macrophage polarization","Wound healing/skin regeneration","Small Animal",1
+"MAPK/p38/JNK/ERK signaling","Bone regeneration/osteogenesis","Cell",1
+"MAPK/p38/JNK/ERK signaling","Bone regeneration/osteogenesis","Small Animal",1
+"Mitochondrial homeostasis/mitophagy","Bone regeneration/osteogenesis","Cell",1
+"Mitochondrial homeostasis/mitophagy","Bone regeneration/osteogenesis","Human-derived",1
+"Mitochondrial homeostasis/mitophagy","Bone regeneration/osteogenesis","Small Animal",1
+"Mitochondrial homeostasis/mitophagy","Cartilage regeneration/chondroprotection","Cell",1
+"Mitochondrial homeostasis/mitophagy","Cartilage regeneration/chondroprotection","Small Animal",1
+"Mitochondrial homeostasis/mitophagy","Wound healing/skin regeneration","Cell",3
+"Mitochondrial homeostasis/mitophagy","Wound healing/skin regeneration","Small Animal",3
+"NF-κB/SASP/inflammatory signaling","Bone regeneration/osteogenesis","Cell",2
+"NF-κB/SASP/inflammatory signaling","Bone regeneration/osteogenesis","Small Animal",2
+"NF-κB/SASP/inflammatory signaling","Intervertebral-disc regeneration","Cell",1
+"NF-κB/SASP/inflammatory signaling","Intervertebral-disc regeneration","Large Animal",1
+"NF-κB/SASP/inflammatory signaling","Intervertebral-disc regeneration","Small Animal",1
+"NF-κB/SASP/inflammatory signaling","Neural regeneration/function","Cell",1
+"NF-κB/SASP/inflammatory signaling","Neural regeneration/function","Large Animal",1
+"NF-κB/SASP/inflammatory signaling","Neural regeneration/function","Small Animal",1
+"NF-κB/SASP/inflammatory signaling","Wound healing/skin regeneration","Cell",1
+"NF-κB/SASP/inflammatory signaling","Wound healing/skin regeneration","Human-derived",1
+"NF-κB/SASP/inflammatory signaling","Wound healing/skin regeneration","Small Animal",1
+"Paracrine/EV-mediated signaling","Bone regeneration/osteogenesis","Cell",1
+"Paracrine/EV-mediated signaling","Bone regeneration/osteogenesis","Small Animal",1
+"ROS/oxidative-stress control","Bone regeneration/osteogenesis","Cell",7
+"ROS/oxidative-stress control","Bone regeneration/osteogenesis","Human-derived",1
+"ROS/oxidative-stress control","Bone regeneration/osteogenesis","Small Animal",6
+"ROS/oxidative-stress control","Cartilage regeneration/chondroprotection","Cell",1
+"ROS/oxidative-stress control","Cartilage regeneration/chondroprotection","Human-derived",1
+"ROS/oxidative-stress control","Cartilage regeneration/chondroprotection","Small Animal",1
+"ROS/oxidative-stress control","Intervertebral-disc regeneration","Cell",1
+"ROS/oxidative-stress control","Intervertebral-disc regeneration","Small Animal",1
+"ROS/oxidative-stress control","Tendon/ligament regeneration","Cell",1
+"ROS/oxidative-stress control","Tendon/ligament regeneration","Small Animal",1
+"ROS/oxidative-stress control","Wound healing/skin regeneration","Cell",3
+"ROS/oxidative-stress control","Wound healing/skin regeneration","Human-derived",1
+"ROS/oxidative-stress control","Wound healing/skin regeneration","Small Animal",3
+"Senolytic cell clearance","Wound healing/skin regeneration","Cell",1
+"Senolytic cell clearance","Wound healing/skin regeneration","Small Animal",1
+"p16/p21/p53–Rb cell-cycle arrest","Bone regeneration/osteogenesis","Cell",1
+"p16/p21/p53–Rb cell-cycle arrest","Bone regeneration/osteogenesis","Small Animal",1
+"p16/p21/p53–Rb cell-cycle arrest","Cartilage regeneration/chondroprotection","Cell",1
+"p16/p21/p53–Rb cell-cycle arrest","Cartilage regeneration/chondroprotection","Small Animal",1
+"p16/p21/p53–Rb cell-cycle arrest","Wound healing/skin regeneration","Cell",1
+"p16/p21/p53–Rb cell-cycle arrest","Wound healing/skin regeneration","Small Animal",1
+"βPIX–ITGB1–RAC1–NOX1 signaling","Bone regeneration/osteogenesis","Cell",1
+"βPIX–ITGB1–RAC1–NOX1 signaling","Bone regeneration/osteogenesis","Small Animal",1

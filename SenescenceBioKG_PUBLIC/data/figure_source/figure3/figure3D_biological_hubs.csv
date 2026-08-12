@@ -1,0 +1,51 @@
+﻿"Node_ID","Node_type","Canonical_name","Degree","Number_of_studies","Number_of_relation_types"
+"CEL000008","TargetCell","Mesenchymal stem/stromal cells",100,100,1
+"CEL000013","TargetCell","Senescent cells",48,48,1
+"REG000001","RegenerativeEndpoint","Bone regeneration/osteogenesis",42,42,1
+"CEL000007","TargetCell","Macrophages/innate immune cells",33,33,1
+"CEL000002","TargetCell","Chondrocytes/cartilage progenitors",30,30,1
+"REG000012","RegenerativeEndpoint","Wound healing/skin regeneration",28,28,1
+"CEL000003","TargetCell","Endothelial/vascular cells",26,26,1
+"CEL000010","TargetCell","Nucleus pulposus/annulus fibrosus cells",26,26,1
+"MEC000019","Mechanism","ROS/oxidative-stress control",23,23,1
+"CEL000004","TargetCell","Fibroblasts/keratinocytes/skin cells",22,22,1
+"REG000003","RegenerativeEndpoint","Cartilage regeneration/chondroprotection",14,14,1
+"MEC000013","Mechanism","Mitochondrial homeostasis/mitophagy",13,13,1
+"MEC000015","Mechanism","NF-κB/SASP/inflammatory signaling",12,12,1
+"CEL000011","TargetCell","Osteoblasts/osteocytes/osteoclasts",11,11,1
+"REG000006","RegenerativeEndpoint","Intervertebral-disc regeneration",8,8,1
+"MEC000002","Mechanism","Angiogenic/HIF–VEGF signaling",6,6,1
+"CEL000012","TargetCell","Periodontal/dental stem cells",5,5,1
+"MEC000016","Mechanism","p16/p21/p53–Rb cell-cycle arrest",5,5,1
+"MEC000003","Mechanism","Apoptosis/cell-survival regulation",4,4,1
+"MEC000001","Mechanism","AMPK–mTOR–sirtuin signaling",3,3,1
+"MEC000011","Mechanism","Immune modulation/macrophage polarization",3,3,1
+"REG000007","RegenerativeEndpoint","Neural regeneration/function",3,3,1
+"REG000009","RegenerativeEndpoint","Stemness/proliferation/differentiation restoration",3,3,1
+"CEL000016","TargetCell","Tenocytes/tendon progenitors",3,3,1
+"MEC000022","Mechanism","YAP/TAZ/mechanotransduction",3,3,1
+"MEC000004","Mechanism","Autophagy/lysosomal homeostasis",2,2,1
+"REG000002","RegenerativeEndpoint","Cardiac repair/function",2,2,1
+"CEL000001","TargetCell","Cardiomyocytes/cardiac progenitors",2,2,1
+"REG000005","RegenerativeEndpoint","Hepatic repair/function",2,2,1
+"CEL000009","TargetCell","Neural stem cells/neurons/glia",2,2,1
+"MEC000017","Mechanism","Paracrine/EV-mediated signaling",2,2,1
+"CEL000015","TargetCell","Skeletal-muscle/satellite cells",2,2,1
+"MEC000021","Mechanism","TGF-β/Smad/fibrotic signaling",2,2,1
+"REG000010","RegenerativeEndpoint","Tendon/ligament regeneration",2,2,1
+"MEC000007","Mechanism","DNA-damage/telomere repair",1,1,1
+"REG000004","RegenerativeEndpoint","Diabetic wound closure, angiogenesis, collagen deposition and skin regeneration",1,1,1
+"MEC000008","Mechanism","ECM remodeling/mechanical niche",1,1,1
+"MEC000009","Mechanism","Epigenetic/chromatin regulation",1,1,1
+"MEC000010","Mechanism","Ferroptosis/lipid peroxidation",1,1,1
+"CEL000005","TargetCell","Hepatic cells",1,1,1
+"MEC000018","Mechanism","M1-to-M2 macrophage polarization/osteoblast–osteoclast balance",1,1,1
+"MEC000012","Mechanism","MAPK/p38/JNK/ERK signaling",1,1,1
+"MEC000006","Mechanism","Mitochondrial transfer/metabolic restoration",1,1,1
+"MEC000014","Mechanism","NF-κB",1,1,1
+"REG000008","RegenerativeEndpoint","Periodontal/oral-tissue regeneration",1,1,1
+"CEL000014","TargetCell","Senescent human articular chondrocytes",1,1,1
+"MEC000020","Mechanism","Senolytic cell clearance",1,1,1
+"CEL000017","TargetCell","Vascular endothelial cells (HUVECs)",1,1,1
+"REG000011","RegenerativeEndpoint","Vascular regeneration/angiogenesis",1,1,1
+"MEC000005","Mechanism","βPIX–ITGB1–RAC1–NOX1 signaling",1,1,1

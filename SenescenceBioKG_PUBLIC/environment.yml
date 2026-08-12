@@ -1,0 +1,7 @@
+name: senescencebiokg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas=3.0.1
+  - pip

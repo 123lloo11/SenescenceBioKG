@@ -1,0 +1,6 @@
+﻿"Record_ID","DOI","Source","Relation","Target","Evidence_ID","Evidence_location"
+"FS0295","10.1016/j.ijbiomac.2026.152514","GelMA@ZIF-8/PGE microsphere–hydrogel platform","COMPOSED_OF","gelatin methacryloyl (GelMA)","EV001845","PDF p.1/Abstract"
+"FS0105","10.1007/s42765-025-00672-0","Locally activated TGF-β3/MgSi immunoregulatory nanofiber patch","RESPONDS_TO","Acidic pH","EV001740","PDF p.8/Results"
+"FS0428","10.1016/j.mtbio.2024.101323","Self-healing hydrogels loaded with Spatholobi Caulis","DELIVERS","Spatholobi Caulis","EV001085","PDF p.10/Figure"
+"FS0428","10.1016/j.mtbio.2024.101323","Self-healing hydrogels loaded with Spatholobi Caulis","MODULATES","Autophagy/lysosomal homeostasis","EV001087","PDF p.11/Figure"
+"FS0783","10.1111/wrr.12794","Calcium-silicate ion-releasing biomaterial","PROMOTES","Wound healing/skin regeneration","EV001534","PDF p.8/Figure"

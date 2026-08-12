@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use SenescenceBioKG, please cite the software/data release and the associated article."
+title: "SenescenceBioKG"
+type: software
+version: "1.0.0"
+date-released: "TO_BE_COMPLETED"
+authors:
+  - family-names: "TO_BE_COMPLETED"
+    given-names: "TO_BE_COMPLETED"
+    orcid: "TO_BE_COMPLETED"
+repository-code: "https://github.com/TO_BE_COMPLETED/SenescenceBioKG"
+doi: "TO_BE_COMPLETED"
+license: "TO_BE_COMPLETED"
+keywords:
+  - cellular senescence
+  - biomaterials
+  - knowledge graph
+  - tissue engineering
+  - regenerative medicine

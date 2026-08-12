@@ -1,0 +1,283 @@
+﻿"Record_ID","Material","HAS_RESPONDS_TO","HAS_RELEASES","HAS_TARGETS","HAS_MODULATES","HAS_PROMOTES","HAS_VALIDATED_AT"
+"FS0001","BGSC-organoid (dCSEV hydrogel-based biomimetic gradient-structured cartilage organoid)",0,0,1,0,0,1
+"FS0005","Hardystonite (ZnCS; Ca2ZnSi2O7)",0,0,0,0,0,1
+"FS0007","DS@Lip-FA (folate-modified denosumab-loaded liposomes)",0,0,0,0,0,1
+"FS0009","MRRH@UB multilayer ROS-responsive hydrogel",1,0,1,0,1,1
+"FS0011","Phosphatidylserine liposomes (PSLs) used with carbonate-apatite granules",0,0,0,1,0,1
+"FS0013","PAZ hydrogel containing CZpz-MOF artificial antioxidase",1,0,0,0,0,1
+"FS0016","CM-MTBM (CXCR4-engineered macrophages loaded with nanozyme-functionalized mitochondria)",0,0,0,1,0,1
+"FS0018","PSeR multihierarchy ROS-regulated hydrogel",1,0,0,0,0,1
+"FS0020","MPN/BMP@HA hydrogel",1,1,0,0,0,1
+"FS0021","PPCG allicin-based biolubricating nanoplatform",0,1,0,0,0,1
+"FS0022","MSOH hydrogel",0,0,1,0,0,1
+"FS0024","CeO2@HA-loaded photothermal Janus patch",0,0,0,0,0,1
+"FS0026","CaH2-MN hierarchical calcium-hydride microneedle platform",0,0,0,0,1,1
+"FS0033","MM@MS@ABT macrophage-membrane-coated magnetic nanospheres",0,0,1,0,0,1
+"FS0035","Mn4 tetranuclear manganese nanocluster",0,0,1,0,0,1
+"FS0036","CCM@CS-HG hydrogel",1,1,1,1,1,1
+"FS0038","Iron oxide nanoparticles-driven mitochondrial renewal",1,0,1,0,0,1
+"FS0041","IHP@Yam engineered biomimetic intervertebral disc",0,0,1,0,0,1
+"FS0042","MicroSphere and MicroRod anisotropic GelMA microgels",0,0,0,1,0,1
+"FS0043","PAA–EDA-grafted porous PEEK scaffold",0,0,1,1,1,1
+"FS0044","Lubricated hydrogel with STING-inhibiting EXOs",0,1,1,0,1,1
+"FS0048","GO/FeSe2 bio-heterojunction",0,0,0,1,1,1
+"FS0049","Antioxidant Proline Carbon Dot-Composited Poly(L-methionine) Hydrogel",0,0,1,0,0,1
+"FS0050","OI-EV-loaded mesoporous bioactive-glass scaffold",0,0,0,0,0,1
+"FS0054","Lipid-coated NMN-loaded amorphous-calcium-carbonate nanoparticles",0,0,0,0,0,1
+"FS0056","Polyphenol-armored miR-140-5p nanogene-loaded bioadhesive hydrogel",1,0,1,0,0,1
+"FS0058","DPMSC-loaded DAT–ALG hydrogel",0,0,0,0,0,1
+"FS0059","hZIF8/Mn-hCaO2 composite hydrogel",0,0,1,0,1,1
+"FS0062","A-Lipo/PAHM lesion-localized hydrogel microspheres",0,0,1,1,0,1
+"FS0067","Asp10SAC4A supramolecular senolytic nanoplatform",1,1,1,0,0,1
+"FS0071","Remodeling adipocytes’ lipid metabolism with a polycation loaded enzyme-active framework",0,0,0,0,0,1
+"FS0073","Self-powered triboelectric-responsive EV-releasing microneedles",1,0,1,0,0,1
+"FS0077","miR/PBNP@Gel nanozyme-reinforced miR-197-3p delivery hydrogel",0,0,0,0,1,1
+"FS0079","GMP-grade TDHLSP glass-microcarrier bioreactor system",0,0,1,0,0,1
+"FS0080","MCTM metformin-loaded CMCS/tannic-acid/manganese hydrogel",0,1,0,1,0,1
+"FS0081","Cu–Fe3O4 nanozyme",0,0,1,0,0,1
+"FS0082","3D-printed PCL/nHA/SA/COL loaded with M2 macrophage-derived exosomes",0,1,1,1,1,1
+"FS0087","Recombinant humanized type III collagen (rhCol III)",0,0,1,0,0,1
+"FS0090","TSH-Q quercetin-loaded temperature-sensitive hydrogel",0,1,1,1,0,1
+"FS0093","GP@MgO asymmetric short-fiber aerogel",0,0,0,1,1,1
+"FS0097","BMP-2-loaded in vivo bioreactor scaffold system",0,0,0,0,0,1
+"FS0098","SP@V–C–gel engineered-microalgae DNA hydrogel",0,0,1,0,1,1
+"FS0102","Porcine small-intestinal-submucosa extracellular-matrix scaffold",0,0,1,1,0,1
+"FS0105","Locally activated TGF-β3/MgSi immunoregulatory nanofiber patch",1,1,1,0,0,1
+"FS0107","MTBG melatonin-loaded bioactive-glass microspheres",0,1,1,0,0,1
+"FS0109","Hydrogen-generating injectable short-fiber hydrogel",0,0,1,0,1,1
+"FS0111","Retinoic-acid-loaded cartilage organoids",0,1,1,1,0,1
+"FS0112","YDC-Gel-Zn pseudo-mussel-foot-protein hydrogel adhesive",1,0,1,0,1,1
+"FS0113","N/S@M@P NAD+/SBI nanocomposite hydrogel",0,0,1,0,1,1
+"FS0114","NH@K nanozyme-reinforced hydrogel",0,0,1,1,0,1
+"FS0117","Senomorphic Small Extracellular Vesicles Delivered by a Tissue-Adhesive α-Lipoic-Acid Hydrogel",0,0,1,0,1,1
+"FS0122","GM-Gel glycyrrhizic-acid-microsphere-loaded GEP/chitosan hydrogel",0,0,1,1,1,1
+"FS0124","Curcumin-loaded liposomes",0,0,1,1,0,1
+"FS0125","Nanotube-topography substrate",0,0,1,0,0,1
+"FS0129","Hypoxic-exosome-loaded PLGA microspheres",0,1,1,0,0,1
+"FS0130","Plasmid-DNA/Tanshinone-IIA stem-cell-homing hydrogel",0,0,1,0,1,1
+"FS0133","OGPQ/G-NZ quercetin–greigite nanozyme hydrogel",1,1,1,1,0,1
+"FS0134","Electrospun scaffold–bioreactor system",0,1,1,0,1,1
+"FS0135","Electrostatically co-assembled extracellular-vesicle-infused hydrogel",1,0,1,0,1,1
+"FS0136","A20-CRISPRa injectable microspheres",0,0,1,1,1,1
+"FS0142","HPQ@K superlubricative drug-delivery nanoparticles",1,0,1,1,1,1
+"FS0147","TT@P-Gel hydrogel",1,1,1,1,0,1
+"FS0148","Se/PRP-OGel hydrogel",1,0,1,1,0,1
+"FS0150","BAI1-PSTB nanocomposite hydrogel",0,0,1,0,0,1
+"FS0151","senescent metabolism-modulating hierarchical scaffold",0,0,1,0,0,1
+"FS0153","miR-542-3p neonatal-muscle-EV-loaded microneedle patch",0,0,1,0,0,1
+"FS0157","BFV-loaded engineered periosteum on a 3D-printed scaffold",0,1,1,0,0,1
+"FS0164","CTB nanoparticle-engineered MSC construct",0,0,1,0,0,1
+"FS0166","IL37OI@MS responsive hydrogel microspheres",1,0,1,1,0,1
+"FS0167","Tetrahedral framework nucleic acids",0,0,1,0,0,1
+"FS0168","SM@ME exosome-loaded methacrylated-silk-fibroin hydrogel",0,0,1,1,0,1
+"FS0173","Hydrogel-coated micro/nanostructured titanium implant",1,0,1,1,0,1
+"FS0178","D-EV-loaded thermosensitive injectable hydrogel",1,0,1,1,0,1
+"FS0183","ICAM1-directed MnO2@ZIF8/Tanshinone-IIA nanoplatform",1,0,1,0,0,1
+"FS0184","GEA/NGel senolysis-targeting bioenergetic nanoplatform",0,1,1,0,1,1
+"FS0186","(ZIF-8@CeO2)@GOx-loaded sprayable GelMA hydrogel",0,1,0,0,1,1
+"FS0187","Mn3O4-nanoparticle photothermal hydrogel",0,0,1,1,0,1
+"FS0188","GG-5SS strontium-silicate hydrogel scaffold",0,0,0,1,1,1
+"FS0196","Polyacrylamide/alginate viscoelastic hydrogel",0,0,1,1,0,1
+"FS0199","CK2.1/Lac-Phe bilayer osteochondral scaffold",0,0,1,0,0,1
+"FS0203","Res@Lipo@HMs hydrogel",0,1,1,0,0,1
+"FS0205","P16-siRNA-incorporated organoid hydrogel/3D-bioprinted scaffold",0,1,0,0,0,1
+"FS0207","ABT-263-loaded asymmetric composite wound dressing",0,0,1,1,1,1
+"FS0208","Silibinin/PLGA/collagen electrospun nanofibers",0,0,0,0,0,1
+"FS0212","Prussian Blue nanoparticles",0,0,1,1,0,1
+"FS0213","FGF-4/IGF-1-loaded cationic thermosensitive polymer scaffold",0,0,1,0,1,1
+"FS0219","MSN@SIRT3/PEGS genetically engineered hydrogel",0,1,1,0,0,1
+"FS0222","Zn@MOF-gel dual-polyphenol ECM-mimetic hydrogel",0,0,1,1,1,1
+"FS0223","Fisetin-functionalized photoresponsive DNA nanocage",1,1,1,0,0,1
+"FS0226","YBEV-loaded GelMA hydrogel",0,0,1,1,1,1
+"FS0227","PAS/ICG-Cu@ZOL phototherapeutic hydrogel dressing",0,0,0,1,0,1
+"FS0230","Pericyte-membrane-coated saMAT2A lipid nanoparticles",0,0,1,0,1,1
+"FS0232","GPQ pH-responsive anti-senescence hydrogel",1,1,1,0,0,1
+"FS0234","Surface-elastic StG hydrogels",0,0,1,1,0,1
+"FS0238","PEG-HS/TiO2 nanocomposite",0,0,1,1,1,1
+"FS0239","FN9-10ELP extracellular-matrix-mimetic fusion protein",0,0,1,1,0,1
+"FS0240","Selenium-Containing Nano-Micelles",0,0,1,0,0,1
+"FS0242","EVsTβ4-loaded separable microneedle patch",0,0,0,0,0,1
+"FS0243","Metformin-releasing polydopamine-coated TiO2-nanotube titanium implant",0,0,1,0,1,1
+"FS0244","Quercetin-treated human-auricular-chondrocyte/GelMA construct",0,0,1,1,0,1
+"FS0247","PCC1/PHCF-Gel senolytic hydrogel",1,1,1,0,0,1
+"FS0248","Smart spatiotemporal drug-delivery hydrogels",1,0,1,1,1,1
+"FS0250","Functionalized 3D-printed Ti6Al4V cell-climbing-frame scaffold",0,0,0,0,1,1
+"FS0252","Immunomodulating regenerating hydrogel",1,0,1,1,0,1
+"FS0261","R-spondin1-loaded small extracellular vesicles",0,0,1,0,0,1
+"FS0262","PtdSer-modified circRNA-LNP-engineered macrophages",0,0,1,0,0,1
+"FS0270","PTHrP supramolecular-peptide-loaded dual-network hydrogel",1,0,1,0,1,1
+"FS0272","PVA–gallic-acid supramolecular hydrogel",0,0,0,0,0,1
+"FS0278","Synovium-targeting senolytic liposomes plus M2-macrophage exosomes",0,0,1,1,0,1
+"FS0279","Lesion-localized hydrogels functionalized with engineered extracellular matrix",0,0,1,1,1,1
+"FS0282","Nanoceria-infused PCL nanofibrous scaffold",0,0,1,1,1,1
+"FS0283","Orbital hybridization-mediated nanozymes",0,0,1,1,1,1
+"FS0284","CeO2@Tau-loaded GelMA microneedle patch",0,0,0,0,0,1
+"FS0290","DASEA Regenbio bioreactor–microcarrier culture system",0,0,0,0,1,1
+"FS0292","Ganoderma-lucidum-polysaccharide nanocomposite",0,0,1,0,1,1
+"FS0295","GelMA@ZIF-8/PGE microsphere–hydrogel platform",0,1,1,0,1,1
+"FS0296","MMZ@Si–P53 hydrogel",1,0,1,1,1,1
+"FS0300","Injectable microgels carrying engineered biomimetic nanoparticles",0,1,1,0,0,1
+"FS0303","LINE1-ASO-loaded selectin-binding-peptide-engineered extracellular vesicles",0,0,1,0,1,1
+"FS0306","MSC-educated tendon (METn) construct",0,0,1,1,0,1
+"FS0307","Prussian-Blue-nanoparticle/ADSC composite treatment",0,0,1,0,0,1
+"FS0308","OSK-protein-delivery and inflammatory-niche-remodeling platform",1,0,1,1,0,1
+"FS0310","rhCOL17-P334 conjugate",0,0,1,0,1,1
+"FS0311","Magnesium-containing bioceramics stimulate exosomal miR-196a-5p secretion",0,0,0,1,1,1
+"FS0312","HG-QNT nanocomposite hydrogel",1,0,1,1,0,1
+"FS0313","TPG@ChSMA mitochondrial-targeted hydrogel",0,1,1,0,1,1
+"FS0322","CAP-CD56+CD271+ BMSC-exosome-loaded PVA/SA hydrogel",0,1,1,1,1,1
+"FS0323","ROS-scavenging mesoporous MOF nanoparticles",0,0,1,0,1,1
+"FS0324","Senolytic intervention without an engineered carrier",0,0,1,0,1,1
+"FS0326","AAV-loaded extracellular-vesicle biomimetic gene-delivery system",0,0,1,1,0,1
+"FS0327","Taurine@PB hydrogel",0,0,1,0,0,1
+"FS0328","Mitochondria-targeted MET-MA carbon dots",0,0,1,0,1,1
+"FS0329","MOF-nanozyme-armored cryogel",0,0,1,0,1,1
+"FS0338","MOTS-c-modified functional self-assembly peptide hydrogels",0,0,1,1,1,1
+"FS0341","Injectable glycyrrhizic-acid hydrogel microspheres",0,0,1,0,1,1
+"FS0345","BMSC-laden salidroside–collagen hybrid scaffold (BMSCs-SCOL)",0,0,1,0,1,1
+"FS0346","Multifunctional pH-responsive microneedles",1,0,1,1,1,1
+"FS0348","Three-Dimensional Bioprinted Scaffolds Loaded with Multifunctional Magnesium-Based Metal-Organic Frameworks",0,1,1,0,1,1
+"FS0350","Senescence-targeted NAD+-dependent SIRT1-activating nanoplatform",0,0,1,1,1,1
+"FS0356","NADH-oxidase nanozyme",1,0,1,0,1,1
+"FS0358","Bioinspired Microgel Assembly of Liver-Derived Decellularized Extracellular Matrix",0,0,1,0,0,1
+"FS0361","Hydrocaffeic-acid–chitosan/EGTA hydrogel",1,0,0,0,0,1
+"FS0362","Inflammation-responsive biomimetic hybrid nanovesicles",0,0,1,0,1,1
+"FS0365","Fmito@ACs hydrogel",0,1,1,0,0,1
+"FS0367","Adhesive injectable NRF2-modulating hydrogel microspheres",0,1,1,0,1,1
+"FS0371","Ultra-small quercetin nanotherapeutics",0,0,1,0,1,1
+"FS0374","Engineered anti-senescence tracheal graft",0,0,1,0,1,1
+"FS0376","Mitochondrial-metabolism/efferocytosis-modulating microcarriers",0,1,1,0,1,1
+"FS0380","Phenylboronic-acid-grafted hyaluronic-acid/TIMP-3 hydrogel",0,1,1,0,0,1
+"FS0382","Nanozyme-Integrated 3D-Printed Gradient Scaffold",0,0,1,1,0,1
+"FS0384","α-Arbutin-crosslinked chitosan/gelatin film",0,0,1,1,1,1
+"FS0385","ER-targeted CRT derivative material",0,0,1,0,1,1
+"FS0386","GOQD-based multifunctional bioactive scaffold",0,0,1,0,0,1
+"FS0389","Enucleated-MSC-derived mitochondria-transfer microvesicles",0,0,1,0,1,1
+"FS0391","rhBMP-2/rapamycin co-treatment without an engineered carrier",0,1,1,0,1,1
+"FS0392","Senolytic/proangiogenic smart hydrogel-coated implant",1,0,1,0,0,1
+"FS0393","Injectable anti-senescence short fibers",0,1,1,0,0,1
+"FS0394","Quercetin-loaded homogeneous PLGA microspheres",0,1,1,0,1,1
+"FS0395","Bamboo-inspired hierarchical bone-repair scaffold",0,0,1,0,0,1
+"FS0397","Cordycepin-Loaded Dental Pulp Stem Cell-Derived Exosomes",0,0,0,0,1,1
+"FS0399","FMAG nanoplatform",1,1,1,0,0,1
+"FS0400","Multimodal ROS-logic-gated therapeutic platform",1,1,1,1,1,1
+"FS0401","Engineered-extracellular-vesicle-loaded GelMA scaffold",0,0,0,0,0,1
+"FS0402","PDA@RES NIR-responsive core–shell nanoplatform",1,0,1,1,1,1
+"FS0404","synFGF18 mRNA lipid nanoparticles",0,0,1,1,0,1
+"FS0406","miR-200b-3p-loaded Poloxamer-407 hydrogel",1,0,0,0,0,1
+"FS0409","Curcumin-loaded milk-sEV/platelet-membrane hybrid vesicles",0,0,1,0,1,1
+"FS0414","Autophagy-enhancing injectable hydrogel microspheres",0,0,1,0,1,1
+"FS0418","GelMA/PNS/Alg@IGF-1 hydrogel",0,0,1,0,0,1
+"FS0419","Senile-osteoporosis titanium implant",1,0,1,0,0,1
+"FS0424","Voronoi-curvature scaffolds",0,0,1,0,1,1
+"FS0428","Self-healing hydrogels loaded with Spatholobi Caulis",1,1,1,1,0,1
+"FS0430","HIF1A@NNP nanoplatform",0,0,1,1,0,1
+"FS0433","Quercetin-loaded aligned-nanowire hydrogel",0,1,1,0,1,1
+"FS0436","CeO2 nanozymes",0,0,1,1,1,1
+"FS0438","SOX5/SOX9 mRNA lipid nanoparticles",0,0,1,0,0,1
+"FS0439","TA-PFC/PCK fiber scaffold",0,0,1,1,0,1
+"FS0440","GCA-NAb-loaded GelMA hydrogel",0,0,1,0,0,1
+"FS0446","Biomimetic hydrogel delivers engineered exosomes",0,0,1,1,0,1
+"FS0449","Engineered extracellular vesicles",0,0,1,0,1,1
+"FS0450","Collagen-coated polyacrylamide hydrogels",0,0,1,1,0,1
+"FS0453","Pro-regenerative cardiac-progenitor-secretome nanoparticles",0,0,1,0,0,1
+"FS0454","GBC@PNA sono-piezoelectric scaffold",1,0,1,0,1,1
+"FS0458","Tunable-stiffness PDMS substrates",0,0,1,0,0,1
+"FS0459","MG@IFN-γ-ECM cartilage-anchoring microgels",0,0,1,0,0,1
+"FS0460","TDN-miR-21-5p DNA tetrahedron nanocomplex",0,0,1,0,1,1
+"FS0461","Active Magnesium Boride/Alginate Hydrogels",1,0,1,1,0,1
+"FS0462","LT-NPs nanoplatform",1,1,1,0,0,1
+"FS0465","miR-17-5p-engineered-sEV/GelMA hydrogel",0,0,0,0,1,1
+"FS0469","Quaternized-chitosan injectable self-healing hydrogel",1,0,0,0,0,1
+"FS0470","NE:TUB1-MNP magnetic nanoemulsion",0,0,1,0,0,1
+"FS0471","Astaxanthin-loaded bimetallic-MOF hydrogel scaffold",0,0,0,0,0,1
+"FS0472","HydroWrap hydrogen-sulfide-delivery hydrogel",1,1,1,1,1,1
+"FS0478","Dual-engineered chondrocyte-targeted extracellular vesicles",0,0,1,0,0,1
+"FS0482","miR-146a-5p-engineered exosomes",0,0,1,1,0,1
+"FS0487","3D-printed titanium scaffolds coated with a multifunctional photothermal-responsive hydrogel",1,0,1,1,1,1
+"FS0490","EGCG@MAB hydrogel",1,0,1,1,1,1
+"FS0492","Bioelectrically reprogramming hydrogel",0,0,0,0,0,1
+"FS0498","G-P-M piezoelectric lubricating injectable hydrogel",0,0,1,0,0,1
+"FS0506","Quercetin-loaded nanoparticles",0,1,1,0,0,1
+"FS0507","Tannic-acid-loaded calcium-alginate/silk-fibroin-peptide/Bletilla-polysaccharide microspheres",0,1,1,0,1,1
+"FS0513","Aligned-topography soft hydrogel substrates",0,0,1,0,0,1
+"FS0515","Three-dimensional hydrogel scaffolds",0,0,1,0,0,1
+"FS0516","Extracellular vesicles without an engineered carrier",0,0,1,0,1,1
+"FS0522","Chitosan-coated culture surfaces",0,0,1,0,0,1
+"FS0526","Metformin-loaded HA/gelatin electrospun nanofibers",0,0,1,0,0,1
+"FS0534","F@GP galactose-modified Fe3O4-loaded PLGA nanoparticles",1,1,1,0,0,1
+"FS0535","Magnetic-nanoparticle-coated fibroblast/ADSC constructs",0,0,1,0,0,1
+"FS0536","Metformin-loaded mesoporous silica nanoparticles",0,0,0,0,0,1
+"FS0538","ZIF-8/resveratrol nanoformulation",1,0,1,0,1,1
+"FS0539","CUR@MSNs nanoplatform",0,0,1,0,0,1
+"FS0542","nHA/chitosan/PLGA bone-matrix-simulating scaffold",0,0,1,0,0,1
+"FS0552","p16INK4a-siRNA nanoparticles",0,1,1,0,0,1
+"FS0553","IKKβ-siRNA-loaded gold nanoclusters",0,0,0,1,0,1
+"FS0559","Three-dimensional TECA hydrogel",0,0,1,0,0,1
+"FS0560","Three-dimensional self-assembling nanofiber matrix",0,0,0,0,0,1
+"FS0563","Fibronectin/thermoresponsive-polymer scaffold",0,0,1,0,0,1
+"FS0571","Heterojunction carbon nanotubes with photoimmobilized IGF-1",0,0,1,0,0,1
+"FS0580","ADSC/acellular-dermal-matrix tissue-engineered membrane",0,0,0,0,1,1
+"FS0595","Microcarrier–bioreactor culture system",0,0,1,0,0,1
+"FS0598","α-Klotho gene-activated scaffold",0,0,1,1,1,1
+"FS0602","PAAm–IGF-1/TNF-α biomaterial",0,0,1,0,0,1
+"FS0624","Lycium barbarum-derived carbon dots",0,0,1,1,1,1
+"FS0628","Vitamin-E-doped sol–gel silica coating",0,0,0,0,0,1
+"FS0630","Chemically modified culture surfaces",0,0,1,0,0,1
+"FS0637","Microtopographic polymer substrates",0,0,1,1,0,1
+"FS0642","Baghdadite Ceramics",0,0,1,1,0,1
+"FS0644","Nonsenescent-MSC-retaining hydrogel system",0,0,0,0,0,1
+"FS0649","Bone-targeted senolytic delivery system",0,1,1,0,0,1
+"FS0651","Recombinant-Yap1-loaded platelet-derived exosomes",0,1,1,0,0,1
+"FS0655","Chitosan-coated culture surfaces",0,0,1,0,0,1
+"FS0657","Quercetin/HA-loaded TG-18 hydrogel",1,1,1,0,1,1
+"FS0672","Young-donor extracellular-vesicle nanoparticles",0,0,0,0,0,1
+"FS0675","Senomorphic-conjugated scaffold",0,0,0,0,0,1
+"FS0678","Released from ZrO2/SiO2 coating resveratrol",0,0,0,0,0,1
+"FS0687","CaSi2 nanoparticle-coated mesoporous bioactive-glass scaffold",0,0,1,0,0,1
+"FS0696","miR-29b-5p-loaded stem-cell-homing hydrogel",0,0,1,1,1,1
+"FS0701","Cerium oxide nanoparticles",0,0,0,0,0,1
+"FS0704","QCS-OST@Exos self-healing hydrogel",1,0,1,0,1,1
+"FS0705","CeNP enzyme-mimic nanofiber-bundle scaffold",0,0,1,0,0,1
+"FS0709","Cerium-oxide-nanoparticle-carrying hUCMSCs",0,0,1,1,1,1
+"FS0720","SIRT1-activated-MSC gelatin hydrogel",0,0,1,0,1,1
+"FS0726","Curcumin/ZSM-5 electrospun nanofibers",0,1,1,0,0,1
+"FS0729","Fibrin polymer matrix",0,0,1,0,0,1
+"FS0731","Young-cell-secretome-EV-loaded three-dimensional ECM scaffold",0,0,0,0,0,1
+"FS0738","Gelatin-microcarrier-based MSC microtissues",0,0,1,1,1,1
+"FS0761","miR-200/young-ECM bioscaffold",0,0,1,0,0,1
+"FS0765","Antibody-functionalized copper-sulfate nanoparticles",0,0,1,1,1,1
+"FS0770","Prussian-Blue-nanozyme gene-editing platform",0,0,0,0,0,1
+"FS0776","PCL/gelatin nanofibers containing TiO2 nanoparticles and MET@MSNs",0,0,1,0,0,1
+"FS0783","Calcium-silicate ion-releasing biomaterial",0,0,1,1,1,1
+"FS0788","Ruxolitinib-loaded hierarchically biomimetic nanostructural scaffold",0,0,1,1,0,1
+"FS0795","V156K-rapa-rHDL nanoparticles",0,0,1,0,0,1
+"FS0796","Iron–gold anti-senescence ion nanocarrier (AIN)",0,1,1,0,0,1
+"FS0797","Cell-deposited extracellular matrix",0,0,1,0,1,1
+"FS0809","Human-chondrocyte/polymer-scaffold tissue-engineered construct",0,0,1,0,0,1
+"FS0810","ASD all-in-one smart hydrogel dressing",1,1,1,0,1,1
+"FS0816","Chondrocyte-targeting exosome sustained-release platform",0,0,1,0,1,1
+"FS0821","PARP1@PLS-PT100 targeted nanospheres",0,0,1,0,0,1
+"FS0834","Nanocatalytic MOF-coated titanium implant",1,0,1,0,1,1
+"FS0838","Scaffold-free microtissues",0,0,1,0,0,1
+"FS0842","Resveratrol-doped polyurethane–polylactide material",0,0,1,0,0,1
+"FS0843","Extracellular-vesicle-conjugated functional-matrix hydrogel",0,0,1,1,0,1
+"FS0866","LPS-releasing gelatin sponges with catechin/senolytic treatment",0,0,1,0,0,1
+"FS0879","ZIM1/hydrogel culture system",0,0,1,0,0,1
+"FS0882","Tonsil-derived mesenchymal stem cells incorporated in reactive oxygen species-releasing hydrogel",0,0,1,1,0,1
+"FS0885","Human-iPSC-derived cell-engineered nanovesicles",0,0,1,0,1,1
+"FS0887","Rapamycin-PLGA microparticles",0,1,0,0,0,1
+"FS0905","Curcumin-loaded mesoporous-silica/PCL-gelatin electrospun nanofiber scaffold",0,1,0,0,0,1
+"FS0912","Dual-drug-encapsulated liposomal nanoparticles",0,0,1,1,0,1
+"FS0913","GLRX3+ extracellular-vesicle redox-modulatory hydrogel",1,0,1,1,1,1
+"FS0916","Honey-incorporated electrospun nanofiber membrane",0,1,1,1,0,1
+"FS0927","hTERT mRNA lipid nanoparticles",0,0,1,0,0,1
+"FS0928","Alginate–strontium/metformin-hydrochloride hydrogel beads",0,0,1,0,1,1
+"FS0932","Molybdenum disulfide nanoparticles",0,0,1,0,0,1
+"FS0956","Hierarchically patterned porous honey/silk-fibroin scaffold",0,0,1,0,0,1
+"FS0970","Sandblasted/Acid-Etched Titanium Surface Modified with Calcium Phytate",0,0,0,0,1,1
+"FS1020","SRT1720-loaded calcium-phosphate/magnesium-phosphate nanocarriers",0,0,1,1,0,1
+"FS1021","Hydrogel substrates for serially expanded MSCs",0,0,0,1,0,1
+"FS1040","Hairyvein-agrimony-nanovesicle-loaded microneedles",0,1,1,0,1,1
+"FS1052","EMHS HxMoO3-loaded bone-targeting lipid nanoparticles",1,0,1,1,1,1
+"FS1054","HPTC ECM-mimetic injectable hydrogel",1,0,1,0,1,1

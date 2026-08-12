@@ -1,0 +1,45 @@
+﻿"Node_ID","Node_type","Canonical_name","Degree","Number_of_studies","Number_of_relation_types"
+"FAB000039","FabricationStrategy","Surface coating",28,28,1
+"FAB000035","FabricationStrategy","Self-assembly",17,17,1
+"FAB000001","FabricationStrategy","3D printing/bioprinting",16,16,1
+"FAB000008","FabricationStrategy","Decellularization and ECM processing",9,9,1
+"FAB000027","FabricationStrategy","Photocrosslinking",9,9,1
+"FAB000022","FabricationStrategy","Microfluidic fabrication",8,8,1
+"FAB000012","FabricationStrategy","Electrospinning",7,7,1
+"FAB000019","FabricationStrategy","Hydrothermal synthesis",7,7,1
+"FAB000013","FabricationStrategy","Emulsion fabrication",6,6,1
+"FAB000034","FabricationStrategy","Schiff-base/hydrazone crosslinking",6,6,1
+"FAB000042","FabricationStrategy","Thin-film hydration",6,6,1
+"FAB000015","FabricationStrategy","Extrusion",5,5,1
+"FAB000024","FabricationStrategy","One-pot synthesis",4,4,1
+"FAB000017","FabricationStrategy","Freeze-drying/lyophilization",3,3,1
+"FAB000003","FabricationStrategy","Biomineralization",2,2,1
+"FAB000004","FabricationStrategy","BMP-2 electrostatic adsorption",1,1,1
+"FAB000002","FabricationStrategy","Biomaterial implantation as an in vivo bioreactor with BMP-2 loading",1,1,1
+"FAB000005","FabricationStrategy","Click-chemistry crosslinking",1,1,1
+"FAB000006","FabricationStrategy","Co-assembly of cargo with DSPE-TK-PEG2000 and DSPE-PEG2000 into nanomicelles",1,1,1
+"FAB000007","FabricationStrategy","Coordination synthesis of a tetranuclear manganese complex with the TPDP ligand",1,1,1
+"FAB000010","FabricationStrategy","DSPE-PEG2000-FA post-insertion",1,1,1
+"FAB000011","FabricationStrategy","Dynamic covalent crosslinking",1,1,1
+"FAB000023","FabricationStrategy","Electroporation loading of LINE1-targeting ASO into SBP-EVs",1,1,1
+"FAB000014","FabricationStrategy","Enzymatic crosslinking",1,1,1
+"FAB000016","FabricationStrategy","FDM 3D printing",1,1,1
+"FAB000018","FabricationStrategy","HA-ADH and HA-ALD synthesis",1,1,1
+"FAB000021","FabricationStrategy","Mesoporous-silica loading followed by composite-hydrogel gelation",1,1,1
+"FAB000026","FabricationStrategy","PHCF-Gel preparation",1,1,1
+"FAB000028","FabricationStrategy","Photocrosslinking and therapeutic-cargo loading",1,1,1
+"FAB000029","FabricationStrategy","Photocrosslinking of StG hydrogels with controlled surface elasticity",1,1,1
+"FAB000031","FabricationStrategy","Quercetin loading into a temperature-sensitive hydrogel at 4 °C",1,1,1
+"FAB000032","FabricationStrategy","RAFT polymerization",1,1,1
+"FAB000033","FabricationStrategy","RAFT polymerization of P(DMA-b-MPC)",1,1,1
+"FAB000037","FabricationStrategy","Sol–gel synthesis",1,1,1
+"FAB000038","FabricationStrategy","Strontium-silicate incorporation and 3D printing",1,1,1
+"FAB000043","FabricationStrategy","TPA and PLL-Glu synthesis",1,1,1
+"FAB000040","FabricationStrategy","Template molding/replication",1,1,1
+"FAB000041","FabricationStrategy","Thermosensitive-polymer synthesis, hydrogel gelation and extracellular-vesicle loading",1,1,1
+"FAB000044","FabricationStrategy","ZIF-8/CeO2/GOx cascade-nanozyme assembly and GelMA encapsulation",1,1,1
+"FAB000009","FabricationStrategy","droplet-microfluidic cell encapsulation",1,1,1
+"FAB000020","FabricationStrategy","incorporation into a PVA/Alg-PBA dynamically crosslinked hydrogel",1,1,1
+"FAB000025","FabricationStrategy","outer PLL/acrylamide/LAP photocuring at 405 nm",1,1,1
+"FAB000030","FabricationStrategy","polypyrrole functionalization",1,1,1
+"FAB000036","FabricationStrategy","serial extrusion",1,1,1
