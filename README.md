@@ -2,6 +2,17 @@
 
 A full-text evidence-supported knowledge graph of senescence-oriented biomaterials in tissue engineering and regeneration.
 
+## Repository structure and working directory
+
+The public analysis package is located in the `SenescenceBioKG_PUBLIC` directory. After cloning the repository, enter this directory before running the analysis scripts or the Explorer.
+
+```bash
+git clone https://github.com/123lloo11/SenescenceBioKG.git
+cd SenescenceBioKG/SenescenceBioKG_PUBLIC
+```
+
+All relative paths below, including `data/`, `analysis/`, `explorer/`, `docs/`, and `tests/`, are resolved from the `SenescenceBioKG_PUBLIC` directory.
+
 ## Overview
 
 The frozen public graph represents 283 studies with 654 canonical nodes, 1,868 supported edges, and 1,868 evidence-metadata records. It supports material-centered retrieval across composition, fabrication, design, stimulus response, cargo, target cells, mechanisms, regenerative endpoints, and validation stages.
@@ -69,13 +80,13 @@ See [REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md) for figure and Explorer comman
 
 ## Run SenescenceBioKG Explorer
 
-From the repository root:
+From the `SenescenceBioKG_PUBLIC` directory:
 
 ```bash
 Rscript explorer/run_explorer.R
 ```
 
-The Explorer loads only public evidence metadata. When a verbatim passage is unavailable it directs the user to the DOI and PDF location.
+The Explorer loads only public evidence metadata. When a verbatim passage is unavailable, it directs the user to the DOI and PDF location.
 
 ## Competency queries
 
@@ -88,4 +99,3 @@ Every supported edge has an Evidence_ID linked to the same Record_ID. The public
 ## Citation
 
 Citation information will be updated upon publication. See `CITATION.cff.template` and `docs/CITATION_SETUP.md`.
-
